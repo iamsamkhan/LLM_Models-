@@ -1,7 +1,6 @@
 # LLM_Models-
 
-<img align="right" alt="coding" width="1800" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40shiv248%2Fhosting-open-source-llm-model-on-google-colaboratory-cc14a42d4053&psig=AOvVaw3IFLw-AtJQdz4bRGwINXGO&ust=1698441740870000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCpmdfSlIIDFQAAAAAdAAAAABAE">
-
+<img align="right" alt="coding" width="1800" src="https://images.app.goo.gl/8NuoEx2XVgJ5TFwv9.gif">
 
 
 
