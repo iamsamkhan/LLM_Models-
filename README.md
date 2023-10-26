@@ -4,7 +4,7 @@
 
 
 <div align=center>
-<img src="[resources/creepy_llm.jpeg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn1.vectorstock.com%2Fi%2F1000x1000%2F74%2F60%2Fllm-large-language-model-ai-artificial-vector-47507460.jpg&tbnid=iUxUpy8-netuPM&vet=12ahUKEwjPl7Xv0JSCAxW7pukKHQunAtMQMygCegQIARBS..i&imgrefurl=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fllm-large-language-model-ai-artificial-vector-47507460&docid=JBuCYqkZcsB8oM&w=1000&h=780&q=llm%20models%20jpg&ved=2ahUKEwjPl7Xv0JSCAxW7pukKHQunAtMQMygCegQIARBS)" width="500">
+<img src="[[resources/creepy_llm.jpeg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn1.vectorstock.com%2Fi%2F1000x1000%2F74%2F60%2Fllm-large-language-model-ai-artificial-vector-47507460.jpg&tbnid=iUxUpy8-netuPM&vet=12ahUKEwjPl7Xv0JSCAxW7pukKHQunAtMQMygCegQIARBS..i&imgrefurl=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fllm-large-language-model-ai-artificial-vector-47507460&docid=JBuCYqkZcsB8oM&w=1000&h=780&q=llm%20models%20jpg&ved=2ahUKEwjPl7Xv0JSCAxW7pukKHQunAtMQMygCegQIARBS)](https://images.app.goo.gl/cuCsLNdYZT2FArnF9)" width="500">
 </div>
 
 
