@@ -3,7 +3,7 @@
 # Awesome-LLM [![Awesome]([https://awesome.re/badge.svg)](https://awesome.re)
 
 
-<img align="right" alt="coding" width="1400" src=["https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif](https://images.app.goo.gl/fq6UAzXJT4nPYqPZA)">
+<img align="right" alt="coding" width="1400" src=["https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif">
 
 
 
