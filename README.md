@@ -3,11 +3,7 @@
 # Awesome-LLM [![Awesome]([https://awesome.re/badge.svg)](https://awesome.re)
 
 
-<div align="center">
-<img src="[https://github.com/Mooler0410/LLMsPracticalGuide/blob/main/imgs/survey-gif-test.gif](https://images.app.goo.gl/fq6UAzXJT4nPYqPZA)"/>
-</div>
-
-
+<img align="right" alt="coding" width="1400" src=["https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif](https://images.app.goo.gl/fq6UAzXJT4nPYqPZA)">
 
 
 
