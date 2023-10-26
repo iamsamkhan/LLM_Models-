@@ -446,3 +446,8 @@ I will keep some pull requests open if I'm not sure if they are awesome for LLM,
 If you have any question about this opinionated list, do not hesitate to contact me smshad0001@gmail.com.
 
 [^1]: This is not legal advice. Please contact the original authors of the models for more information.
+
+
+
+![llm_survey](https://github.com/iamsamkhan/LLM_Models-/assets/82513727/c4ac2b91-51c2-4a6d-90ed-1c21c64a7881)
+
