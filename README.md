@@ -11,7 +11,8 @@
 Large Language Models(LLM) LLM models, such as GPT (Generative Pre-trained Transformer) models, are state-of-the-art language models that are pre-trained on vast amounts of text data and can subsequently be fine-tuned for specific natural language processing tasks. These models have demonstrated remarkable capabilities in a wide range of applications, including text generation, language translation, sentiment analysis, text summarization, and more.**the Whole World** by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs.
 
 ## Updates
-
+- [2023-02]  	LLaMA: Open and Efficient Foundation Language Models
+- [2023-07	]  add 	Llama 2 : Open Foundation and Fine-Tuned Chat Models
 - [2023-07-01] Add some open-source models: Aquila, Chatglm2, Ultra-LM
 - [2023-07-01] Add some deploying tools: vLLM, Text Generation Inference
 - [2023-07-01] Add some great post about LLM from Yao Fu, Lilian and Andrej
