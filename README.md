@@ -3,9 +3,9 @@
 # Awesome-LLM [![Awesome]([https://awesome.re/badge.svg)](https://awesome.re)
 
 
-<p align="center">
+<div align="center">
 <img src="[https://github.com/Mooler0410/LLMsPracticalGuide/blob/main/imgs/survey-gif-test.gif](https://images.app.goo.gl/fq6UAzXJT4nPYqPZA)"/>
-</p>
+</div>
 
 
 
