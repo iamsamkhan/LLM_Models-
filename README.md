@@ -4,7 +4,7 @@
 
 
 
-<img align="right" alt="coding" width="1800" src="[[https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif](https://images.app.goo.gl/Mibk8eKPSXdDXo7q7)](https://images.app.goo.gl/dXiRJB7K4q5ZzpTb9)">
+<img align="right" alt="coding" width="1800" src="[https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif](https://images.app.goo.gl/Mibk8eKPSXdDXo7q7)](https://images.app.goo.gl/dXiRJB7K4q5ZzpTb9)">
 
 
 
