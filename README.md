@@ -3,7 +3,16 @@
 # Awesome-LLM [![Awesome]([https://awesome.re/badge.svg)](https://awesome.re)
 
 
+
 ![image8.gif](https://images.app.goo.gl/fq6UAzXJT4nPYqPZA)
+
+
+
+
+
+
+
+
 
 
 Large Language Models(LLM) LLM models, such as GPT (Generative Pre-trained Transformer) models, are state-of-the-art language models that are pre-trained on vast amounts of text data and can subsequently be fine-tuned for specific natural language processing tasks. These models have demonstrated remarkable capabilities in a wide range of applications, including text generation, language translation, sentiment analysis, text summarization, and more.**the Whole World** by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs.
