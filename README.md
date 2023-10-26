@@ -4,7 +4,7 @@
 
 
 <div align=center>
-<img src="https://images.app.goo.gl/cuCsLNdYZT2FArnF9" width="500">
+<img src="https://images.app.goo.gl/cuCsLNdYZT2FArnF9" width="1000">
 </div>
 
 
