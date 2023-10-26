@@ -1,6 +1,6 @@
 # LLM_Models-
 
-# Awesome-LLM  [![Awesome](https://awesome.re/badge.svg)]([https://awesome.re](https://images.app.goo.gl/JZFqoRpnDVu5bvRF6)
+# Awesome-LLM  [![Awesome]([https://awesome.re/badge.svg]
 
 
 ![](resources/[image8.gif]([https://www.google.com/imgres?imgurl=https%3A%2F%2Fsecuremachinerydotcom.files.wordpress.com%2F2023%2F06%2Fllm_survey.gif&tbnid=dDXrMn2J9xQUmM&vet=12ahUKEwjq_pmtr5SCAxUZ5TgGHZTICtwQMygdegUIARCmAQ..i&imgrefurl=https%3A%2F%2Fsecuremachinery.com%2F2023%2F05%2F14%2Fllm-evolution-anthropic-claude-ai21-cohere-gpt-4%2F&docid=-w5xAqiA_Q_egM&w=520&h=480&q=llm%20models%20image%20gif&ved=2ahUKEwjq_pmtr5SCAxUZ5TgGHZTICtwQMygdegUIARCmAQ)](https://www.google.com/imgres?imgurl=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2023%2F05%2Fezgif.com-gif-maker.gif&tbnid=oeRlDqLFXKA7jM&vet=12ahUKEwjq_pmtr5SCAxUZ5TgGHZTICtwQMyhHegUIARCnAg..i&imgrefurl=https%3A%2F%2Fwww.deeplearning.ai%2Fthe-batch%2Fissue-199%2F&docid=d9wn0UFcSYlZ2M&w=1200&h=675&q=llm%20models%20image%20gif&ved=2ahUKEwjq_pmtr5SCAxUZ5TgGHZTICtwQMyhHegUIARCnAg))
