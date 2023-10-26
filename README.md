@@ -5,7 +5,7 @@
 
 ![](resources/[image8.gif]([https://www.google.com/imgres?imgurl=https%3A%2F%2Fsecuremachinerydotcom.files.wordpress.com%2F2023%2F06%2Fllm_survey.gif&tbnid=dDXrMn2J9xQUmM&vet=12ahUKEwjq_pmtr5SCAxUZ5TgGHZTICtwQMygdegUIARCmAQ..i&imgrefurl=https%3A%2F%2Fsecuremachinery.com%2F2023%2F05%2F14%2Fllm-evolution-anthropic-claude-ai21-cohere-gpt-4%2F&docid=-w5xAqiA_Q_egM&w=520&h=480&q=llm%20models%20image%20gif&ved=2ahUKEwjq_pmtr5SCAxUZ5TgGHZTICtwQMygdegUIARCmAQ)](https://www.google.com/imgres?imgurl=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2023%2F05%2Fezgif.com-gif-maker.gif&tbnid=oeRlDqLFXKA7jM&vet=12ahUKEwjq_pmtr5SCAxUZ5TgGHZTICtwQMyhHegUIARCnAg..i&imgrefurl=https%3A%2F%2Fwww.deeplearning.ai%2Fthe-batch%2Fissue-199%2F&docid=d9wn0UFcSYlZ2M&w=1200&h=675&q=llm%20models%20image%20gif&ved=2ahUKEwjq_pmtr5SCAxUZ5TgGHZTICtwQMyhHegUIARCnAg))
 
-Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs.
+Large Language Models(LLM) LLM models, such as GPT (Generative Pre-trained Transformer) models, are state-of-the-art language models that are pre-trained on vast amounts of text data and can subsequently be fine-tuned for specific natural language processing tasks. These models have demonstrated remarkable capabilities in a wide range of applications, including text generation, language translation, sentiment analysis, text summarization, and more.**the Whole World** by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs.
 
 ## Updates
 
@@ -253,8 +253,8 @@ The above tables coule be better summarized by this wonderful visualization from
 - [OPT](https://arxiv.org/abs/2205.01068) - Open Pre-trained Transformer Language Models.
 - [UL2](https://arxiv.org/abs/2205.05131v1) - a unified framework for pretraining models that are universally effective across datasets and setups. 
 - [GLM](https://github.com/THUDM/GLM)- GLM is a General Language Model pretrained with an autoregressive blank-filling objective and can be finetuned on various natural language understanding and generation tasks.
-  - [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型，基于 [General Language Model (GLM)](https://github.com/THUDM/GLM) 架构，具有 62 亿参数.
-  - [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - An Open Bilingual Chat LLM | 开源双语对话语言模型
+  - [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B ChatGLM-6B is an open bilingual language model based on General Language Model (GLM) framework, with 6.2 billion parameters. With the quantization technique, users can deploy locally on consumer-grade graphics cards (only 6GB of GPU memory is required at the INT4 quantization level).
+  - [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - An Open Bilingual Chat LLM | 
 - [RWKV](https://github.com/BlinkDL/RWKV-LM) - Parallelizable RNN with Transformer-level LLM Performance.
   - [ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by my RWKV (100% RNN) language model.
 - [StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models) - Stability AI Language Models.
@@ -272,15 +272,15 @@ The above tables coule be better summarized by this wonderful visualization from
 - [Camel](https://huggingface.co/Writer/camel-5b-hf) - a state-of-the-art instruction-following large language model designed to deliver exceptional performance and versatility.
 - [h2oGPT](https://github.com/h2oai/h2ogpt)
 - [PanGu-α](https://openi.org.cn/pangu/) - PanGu-α is a 200B parameter autoregressive pretrained Chinese language model develped by Huawei Noah's Ark Lab, MindSpore Team and Peng Cheng Laboratory.
-- [MOSS](https://github.com/OpenLMLab/MOSS) - MOSS是一个支持中英双语和多种插件的开源对话语言模型.
+- [MOSS](https://github.com/OpenLMLab/MOSS) - MOSS --is a conversational language model like ChatGPT.    
 - [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - a project meant to give everyone access to a great chat based large language model.
   - [HuggingChat](https://huggingface.co/chat/) - Powered by Open Assistant's latest model – the best open source chat model right now and @huggingface Inference API.
 - [StarCoder](https://huggingface.co/blog/starcoder) - Hugging Face LLM for Code
 - [MPT-7B](https://www.mosaicml.com/blog/mpt-7b) - Open LLM for commercial use by MosaicML
 - [Falcon](https://falconllm.tii.ae) - Falcon LLM is a foundational large language model (LLM) with 40 billion parameters trained on one trillion tokens. TII has now released Falcon LLM – a 40B model.
 - [XGen](https://github.com/salesforce/xgen) - Salesforce open-source LLMs with 8k sequence length.
-- [baichuan-7B](https://github.com/baichuan-inc/baichuan-7B) - baichuan-7B 是由百川智能开发的一个开源可商用的大规模预训练语言模型.
-- [Aquila](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila) - 悟道·天鹰语言大模型是首个具备中英双语知识、支持商用许可协议、国内数据合规需求的开源语言大模型。
+- [baichuan-7B](https://github.com/baichuan-inc/baichuan-7B) - baichuan-7B  is an open-source large-scale pre-trained model developed by Baichuan Intelligent Technology.
+- [Aquila](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila) -  Language Model is the first open source language model that supports both Chinese and English knowledge, commercial license agreements, and compliance .
 ## LLM Training Frameworks
 
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
@@ -401,7 +401,7 @@ The above tables coule be better summarized by this wonderful visualization from
 - [Is ChatGPT 175 Billion Parameters? Technical Analysis](https://orenleung.super.site/is-chatgpt-175-billion-parameters-technical-analysis) \[2023-03-04][Owen]
 - [Towards ChatGPT and Beyond](https://zhuanlan.zhihu.com/p/607637180) \[2023-02-20][知乎][欧泽彬]
 - [追赶ChatGPT的难点与平替](https://mp.weixin.qq.com/s/eYmssaPFODjC7xwh1jHydQ) \[2023-02-19][李rumor]
-- [对话旷视研究院张祥雨｜ChatGPT的科研价值可能更大](https://zhuanlan.zhihu.com/p/606918875) \[2023-02-16][知乎][旷视科技]
+- [对话旷视研究院张祥雨｜ChatGPT的科研价值可能更大](https://zhuanlan.zhihu.com/p/606918875) \[2023-02-16]
 - [关于ChatGPT八个技术问题的猜想](https://zhuanlan.zhihu.com/p/606478660) \[2023-02-15][知乎][张家俊]
 - [ChatGPT发展历程、原理、技术架构详解和产业未来](https://zhuanlan.zhihu.com/p/590655677?utm_source=wechat_session&utm_medium=social&utm_oi=714896487502315520&s_r=0) \[2023-02-15][知乎][陈巍谈芯]
 - [对ChatGPT的二十点看法](https://zhuanlan.zhihu.com/p/605882945?utm_medium=social&utm_oi=939485757606461440&utm_psn=1609870392121860096&utm_source=wechat_session) \[2023-02-13]\[知乎][熊德意]
