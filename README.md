@@ -1,9 +1,7 @@
 # LLM_Models-
 
-# Awesome-LLM [![Awesome]([https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-LLM 
 
-
-![Uploading image.png…]()
 
 
 
