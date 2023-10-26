@@ -3,7 +3,7 @@
 # Awesome-LLM [![Awesome]([https://awesome.re/badge.svg)](https://awesome.re)
 
 
-![](resources/[image8.gif]([https://www.google.com/imgres?imgurl=https%3A%2F%2Fsecuremachinerydotcom.files.wordpress.com%2F2023%2F06%2Fllm_survey.gif&tbnid=dDXrMn2J9xQUmM&vet=12ahUKEwjq_pmtr5SCAxUZ5TgGHZTICtwQMygdegUIARCmAQ..i&imgrefurl=https%3A%2F%2Fsecuremachinery.com%2F2023%2F05%2F14%2Fllm-evolution-anthropic-claude-ai21-cohere-gpt-4%2F&docid=-w5xAqiA_Q_egM&w=520&h=480&q=llm%20models%20image%20gif&ved=2ahUKEwjq_pmtr5SCAxUZ5TgGHZTICtwQMygdegUIARCmAQ)](https://www.google.com/imgres?imgurl=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2023%2F05%2Fezgif.com-gif-maker.gif&tbnid=oeRlDqLFXKA7jM&vet=12ahUKEwjq_pmtr5SCAxUZ5TgGHZTICtwQMyhHegUIARCnAg..i&imgrefurl=https%3A%2F%2Fwww.deeplearning.ai%2Fthe-batch%2Fissue-199%2F&docid=d9wn0UFcSYlZ2M&w=1200&h=675&q=llm%20models%20image%20gif&ved=2ahUKEwjq_pmtr5SCAxUZ5TgGHZTICtwQMyhHegUIARCnAg))
+![](resources/[image8.gif]([[https://www.google.com/imgres?imgurl=https%3A%2F%2Fsecuremachinerydotcom.files.wordpress.com%2F2023%2F06%2Fllm_survey.gif&tbnid=dDXrMn2J9xQUmM&vet=12ahUKEwjq_pmtr5SCAxUZ5TgGHZTICtwQMygdegUIARCmAQ..i&imgrefurl=https%3A%2F%2Fsecuremachinery.com%2F2023%2F05%2F14%2Fllm-evolution-anthropic-claude-ai21-cohere-gpt-4%2F&docid=-w5xAqiA_Q_egM&w=520&h=480&q=llm%20models%20image%20gif&ved=2ahUKEwjq_pmtr5SCAxUZ5TgGHZTICtwQMygdegUIARCmAQ)](https://www.google.com/imgres?imgurl=https%3A%2F%2Fdl-staging-website.ghost.io%2Fcontent%2Fimages%2F2023%2F05%2Fezgif.com-gif-maker.gif&tbnid=oeRlDqLFXKA7jM&vet=12ahUKEwjq_pmtr5SCAxUZ5TgGHZTICtwQMyhHegUIARCnAg..i&imgrefurl=https%3A%2F%2Fwww.deeplearning.ai%2Fthe-batch%2Fissue-199%2F&docid=d9wn0UFcSYlZ2M&w=1200&h=675&q=llm%20models%20image%20gif&ved=2ahUKEwjq_pmtr5SCAxUZ5TgGHZTICtwQMyhHegUIARCnAg))](https://images.app.goo.gl/fq6UAzXJT4nPYqPZA)
 
 Large Language Models(LLM) LLM models, such as GPT (Generative Pre-trained Transformer) models, are state-of-the-art language models that are pre-trained on vast amounts of text data and can subsequently be fine-tuned for specific natural language processing tasks. These models have demonstrated remarkable capabilities in a wide range of applications, including text generation, language translation, sentiment analysis, text summarization, and more.**the Whole World** by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs.
 
@@ -349,42 +349,29 @@ The above tables coule be better summarized by this wonderful visualization from
 - [Jason Wei] Scaling, emergence, and reasoning in large language models [Slides](https://docs.google.com/presentation/d/1EUV7W7X_w0BDrscDhPg7lMGzJCkeaPkGCJ3bN8dluXc/edit?pli=1&resourcekey=0-7Nz5A7y8JozyVrnDtcEKJA#slide=id.g16197112905_0_0)
 - [Susan Zhang] Open Pretrained Transformers [Youtube](https://www.youtube.com/watch?v=p9IxoSkvZ-M&t=4s)
 - [Ameet Deshpande] How Does ChatGPT Work? [Slides](https://docs.google.com/presentation/d/1TTyePrw-p_xxUbi3rbmBI3QQpSsTI1btaQuAUvvNc8w/edit#slide=id.g206fa25c94c_0_24)
-- [Yao Fu] 预训练，指令微调，对齐，专业化：论大语言模型能力的来源 [Bilibili](https://www.bilibili.com/video/BV1Qs4y1h7pn/?spm_id_from=333.337.search-card.all.click&vd_source=1e55c5426b48b37e901ff0f78992e33f)
-- [Hung-yi Lee] ChatGPT 原理剖析 [Youtube](https://www.youtube.com/watch?v=yiY4nPOzJEg&list=RDCMUC2ggjtuuWvxrHHHiaDH1dlQ&index=2)
 - [Jay Mody] GPT in 60 Lines of NumPy [Link](https://jaykmody.com/blog/gpt-from-scratch/)
 - [ICML 2022] Welcome to the &#34;Big Model&#34; Era: Techniques and Systems to Train and Serve Bigger Models [Link](https://icml.cc/virtual/2022/tutorial/18440)
 - [NeurIPS 2022] Foundational Robustness of Foundation Models [Link](https://nips.cc/virtual/2022/tutorial/55796)
 - [Andrej Karpathy] Let's build GPT: from scratch, in code, spelled out. [Video](https://www.youtube.com/watch?v=kCc8FmEb1nY)|[Code](https://github.com/karpathy/ng-video-lecture)
 - [DAIR.AI] Prompt Engineering Guide [Link](https://github.com/dair-ai/Prompt-Engineering-Guide)
-- [邱锡鹏] 大型语言模型的能力分析与应用 [Slides](resources/大型语言模型的能力分析与应用%20-%2030min.pdf) | [Video](https://www.bilibili.com/video/BV1Xb411X7c3/?buvid=XY2DA82257CC34DECD40B00CAE8AFB7F3B43C&is_story_h5=false&mid=dM1oVipECo22eTYTWkJVVg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=c42b6c60-9d22-4c75-90b8-48828e1168af&share_source=WEIXIN&share_tag=s_i&timestamp=1676812375&unique_k=meHB9Xg&up_id=487788801&vd_source=1e55c5426b48b37e901ff0f78992e33f)
 - [Philipp Schmid] Fine-tune FLAN-T5 XL/XXL using DeepSpeed & Hugging Face Transformers [Link](https://www.philschmid.de/fine-tune-flan-t5-deepspeed)
 - [HuggingFace] Illustrating Reinforcement Learning from Human Feedback (RLHF) [Link](https://huggingface.co/blog/rlhf)
 - [HuggingFace] What Makes a Dialog Agent Useful? [Link](https://huggingface.co/blog/dialog-agents)
-- [张俊林]通向AGI之路：大型语言模型(LLM)技术精要 [Link](https://zhuanlan.zhihu.com/p/597586623)
-- [大师兄]ChatGPT/InstructGPT详解 [Link](https://zhuanlan.zhihu.com/p/590311003)
-- [HeptaAI]ChatGPT内核：InstructGPT，基于反馈指令的PPO强化学习 [Link](https://zhuanlan.zhihu.com/p/589747432)
 - [Yao Fu] How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources [Link](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)
 - [Stephen Wolfram] What Is ChatGPT Doing … and Why Does It Work? [Link](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 - [Jingfeng Yang] Why did all of the public reproduction of GPT-3 fail? [Link](https://jingfengyang.github.io/gpt)
-- [Hung-yi Lee] ChatGPT (可能)是怎麼煉成的 - GPT 社會化的過程 [Video](https://www.youtube.com/watch?v=e0aKI2GGZNg)
 - [Keyvan Kambakhsh] Pure Rust implementation of a minimal Generative Pretrained Transformer [code](https://github.com/keyvank/femtoGPT)
-- [过拟合] llm大模型训练知乎专栏 [Link](https://www.zhihu.com/column/c_1252604770952642560)
-
+  
 ## Courses about LLM
 
 - [DeepLearning.AI] ChatGPT Prompt Engineering for Developers [Homepage](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 - [Princeton] Understanding Large Language Models [Homepage](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
-- [OpenBMB] 大模型公开课 [主页](https://www.openbmb.org/community/course)
+- [OpenBMB] (https://www.openbmb.org/community/course)
 - [Stanford] CS224N-Lecture 11: Prompting, Instruction Finetuning, and RLHF [Slides](https://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture11-prompting-rlhf.pdf)
 - [Stanford] CS324-Large Language Models [Homepage](https://stanford-cs324.github.io/winter2022/)
 - [Stanford] CS25-Transformers United V2 [Homepage](https://web.stanford.edu/class/cs25/)
 - [Stanford Webinar] GPT-3 & Beyond [Video](https://www.youtube.com/watch?v=-lnHHWRCDGk)
-- [李沐] InstructGPT论文精读 [Bilibili](https://www.bilibili.com/video/BV1hd4y187CR/?spm_id_from=333.337.search-card.all.click&vd_source=1e55c5426b48b37e901ff0f78992e33f) [Youtube](https://www.youtube.com/watch?v=zfIGAwD1jOQ)
-- [陳縕儂] OpenAI InstructGPT 從人類回饋中學習 ChatGPT 的前身 [Youtube](https://www.youtube.com/watch?v=ORHv8yKAV2Q)
-- [李沐] HELM全面语言模型评测 [Bilibili](https://www.bilibili.com/video/BV1z24y1B7uX/?spm_id_from=333.337.search-card.all.click&vd_source=1e55c5426b48b37e901ff0f78992e33f)
-- [李沐] GPT，GPT-2，GPT-3 论文精读 [Bilibili](https://www.bilibili.com/video/BV1AF411b7xQ/?spm_id_from=333.788&vd_source=1e55c5426b48b37e901ff0f78992e33f) [Youtube](https://www.youtube.com/watch?v=t70Bl3w7bxY&list=PLFXJ6jwg0qW-7UM8iUTj3qKqdhbQULP5I&index=18)
-- [Aston Zhang] Chain of Thought论文 [Bilibili](https://www.bilibili.com/video/BV1t8411e7Ug/?spm_id_from=333.788&vd_source=1e55c5426b48b37e901ff0f78992e33f) [Youtube](https://www.youtube.com/watch?v=H4J59iG3t5o&list=PLFXJ6jwg0qW-7UM8iUTj3qKqdhbQULP5I&index=29)
-- [MIT] Introduction to Data-Centric AI [Homepage](https://dcai.csail.mit.edu)
+
 
 ## Opinions about LLM
 
@@ -395,17 +382,11 @@ The above tables coule be better summarized by this wonderful visualization from
 
 - [Google "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) [2023-05-05]
 - [AI competition statement](https://petergabriel.com/news/ai-competition-statement/) [2023-04-20] [petergabriel]
-- [我的大模型世界观](https://mp.weixin.qq.com/s/_ZvyxRpgIA4L4pqfcQtPTQ) [2023-04-23] [陆奇]
 - [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/) [2023-03-15] [Lilian]
 - [Noam Chomsky: The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html) \[2023-03-08][Noam Chomsky]
 - [Is ChatGPT 175 Billion Parameters? Technical Analysis](https://orenleung.super.site/is-chatgpt-175-billion-parameters-technical-analysis) \[2023-03-04][Owen]
-- [Towards ChatGPT and Beyond](https://zhuanlan.zhihu.com/p/607637180) \[2023-02-20][知乎][欧泽彬]
-- [追赶ChatGPT的难点与平替](https://mp.weixin.qq.com/s/eYmssaPFODjC7xwh1jHydQ) \[2023-02-19][李rumor]
-- [对话旷视研究院张祥雨｜ChatGPT的科研价值可能更大](https://zhuanlan.zhihu.com/p/606918875) \[2023-02-16]
-- [关于ChatGPT八个技术问题的猜想](https://zhuanlan.zhihu.com/p/606478660) \[2023-02-15][知乎][张家俊]
-- [ChatGPT发展历程、原理、技术架构详解和产业未来](https://zhuanlan.zhihu.com/p/590655677?utm_source=wechat_session&utm_medium=social&utm_oi=714896487502315520&s_r=0) \[2023-02-15][知乎][陈巍谈芯]
-- [对ChatGPT的二十点看法](https://zhuanlan.zhihu.com/p/605882945?utm_medium=social&utm_oi=939485757606461440&utm_psn=1609870392121860096&utm_source=wechat_session) \[2023-02-13]\[知乎][熊德意]
-- [ChatGPT-所见、所闻、所感](https://zhuanlan.zhihu.com/p/605331104) \[2023-02-11]\[知乎][刘聪NLP]
+- [Towards ChatGPT and Beyond](https://zhuanlan.zhihu.com/p/607637180) \[2023-02-20]
+
 - [The Next Generation Of Large Language Models ](https://www.notion.so/Awesome-LLM-40c8aa3f2b444ecc82b79ae8bbd2696b) \[2023-02-07][Forbes]
 - [Large Language Model Training in 2023](https://research.aimultiple.com/large-language-model-training/) \[2023-02-03][Cem Dilmegani]
 - [What Are Large Language Models Used For? ](https://www.notion.so/Awesome-LLM-40c8aa3f2b444ecc82b79ae8bbd2696b) \[2023-01-26][NVIDIA]
@@ -433,7 +414,7 @@ The above tables coule be better summarized by this wonderful visualization from
 - [Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) - Awesome LLM compression research papers and tools.
 - [Awesome-LLM-Systems](https://github.com/AmberLJC/LLMSys-PaperList) - Awesome LLM systems research papers.
 - [awesome-llm-webapps](https://github.com/snowfort-ai/awesome-llm-webapps) - A collection of open source, actively maintained web apps for LLM applications.
-- [awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm) - 日本語LLMまとめ - Overview of Japanese LLMs
+- [awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm) - Overview of Japanese LLMs
 
 ## Other Useful Resources
 
