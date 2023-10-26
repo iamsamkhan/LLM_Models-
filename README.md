@@ -5,6 +5,7 @@
 
 
 <img align="right" alt="coding" width="4000" src="https://images.app.goo.gl/dXiRJB7K4q5ZzpTb9.gif)(https://miro.medium.com/v2/resize:fit:786/1*AiCBVmNBB5VbHVEkCCBwsg.gif)">
+![](resources/image8.gif)
 
 
 
