@@ -3,9 +3,7 @@
 # Awesome-LLM [![Awesome]([https://awesome.re/badge.svg)](https://awesome.re)
 
 
-<div align=center>
-<img src="https://images.app.goo.gl/cuCsLNdYZT2FArnF9">
-</div>
+![Uploading image.png…]()
 
 
 
