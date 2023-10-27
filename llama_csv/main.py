@@ -7,7 +7,7 @@ from langchain.vectorstores import FAISS
 from langchain.llms import CTransformers
 from langchain.chains import ConversationalRetrievalChain
 
-DB_FAISS_PATH = 'vectorstore/db_faiss'
+DB_FAISS_PATH = 'vectors/db'
 
 #Loading the model
 def load_llm():
@@ -20,7 +20,7 @@ def load_llm():
     )
     return llm
 
-st.title("Chat with CSV using Llama2 🦙🦜")
+st.title("Chat with CSV using Llama2 ")
 st.markdown("<h3 style='text-align: center; color: white;'>Built by <a href= "https://github.com/iamsamkhan </a></h3>", unsafe_allow_html=True)
 
 uploaded_file = st.sidebar.file_uploader("Upload your Data", type="csv")
