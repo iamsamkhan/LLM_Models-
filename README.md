@@ -449,7 +449,6 @@ If you have any question about this opinionated list, do not hesitate to contact
 [^1]: This is not legal advice. Please contact the original authors of the models for more information.
 
 
-![Uploading mini_prodmon_overview.gif…]()
 
 
 ![llm_survey](https://github.com/iamsamkhan/LLM_Models-/assets/82513727/c4ac2b91-51c2-4a6d-90ed-1c21c64a7881)
