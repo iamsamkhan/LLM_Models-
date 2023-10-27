@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 8501
 
 # Command to run your Streamlit application
-CMD ["streamlit", "run", "chatbot_main.py"]
+CMD ["streamlit", "run", "main.py"]
