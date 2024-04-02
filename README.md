@@ -1,9 +1,10 @@
 # LLM_Models-
 
-[<b>shamshad ahmed</b>](mailto:smshad0001@gmail.com).
-Connect with me on social media:
+
 
 [<b>shamshad ahmed</b>](https://github.com/sponsors/iamsamkhan)
+[<b>shamshad ahmed</b>](mailto:smshad0001@gmail.com).
+Connect with me on social media:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/iamsamkhan/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/iamsamkhan)
